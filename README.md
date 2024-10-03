@@ -1,7 +1,7 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hola 👋, soy Miller Petit</h1>
 <h3 align="center">Un apasionado desarrollador de back-end de Argentina</h3>
-  
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miller-petit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="miller-petit-dev" /> </p>
 
 - 🔭 Actualmente estoy trabajando en **Api rest con java 17 + spring boot 3**
