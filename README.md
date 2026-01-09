@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./baner.png)
 
 <h1 align="center">👋 Hi, I'm Miller Petit</h1>
 
