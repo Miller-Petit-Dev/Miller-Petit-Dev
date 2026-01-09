@@ -1,4 +1,4 @@
-![MasterHead](https://your-banner-url.png)
+![Banner](./banner.png)
 
 <h1 align="center">👋 Hi, I'm Miller Petit</h1>
 
