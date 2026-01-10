@@ -72,7 +72,7 @@ https://github.com/miller-petit-dev/LIA-Quantitative-Execution-Framework
 Intelligent system designed to analyze logs and operational events, detect anomalies, classify incidents, and suggest automated responses to reduce resolution time in technical environments.
 
 👉 Repository:  
-https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-&-Insights
+https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-Insights
 
 ---
 
