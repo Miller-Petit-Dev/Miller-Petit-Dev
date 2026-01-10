@@ -1,15 +1,12 @@
 ![Banner](./Banner.png)
 
-<h1 align="center">👋 Hi, I'm Miller Petit</h1>
-
-<h3 align="center">
-Software Engineer · AI-Augmented Problem Solver · IT & Intelligent Systems
-</h3>
+<h1 align="center">
+AI-Augmented Software Engineer
+</h1>
 
 <p align="center">
-I design, build, and optimize software systems focused on solving real-world problems through automation, data-driven thinking, and AI-augmented execution.
+Designing intelligent, automated systems focused on problem-solving and real-world execution.
 </p>
-
 ---
 
 ## 🧠 Professional Profile
