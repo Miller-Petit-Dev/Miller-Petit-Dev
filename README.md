@@ -89,9 +89,11 @@ https://github.com/miller-petit-dev/ai-incident-analysis-system
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="40"/><br/>
   <strong>Toda la gloria sea para Dios</strong><br/>
-  <sub>My work is guided by faith, integrity, and purpose.</sub>
+  <sub>
+    I believe that discipline, humility, and perseverance are strengthened through faith.
+    This conviction shapes both my professional journey and my life.
+  </sub>
 </p>
 
 ---
