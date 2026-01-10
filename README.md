@@ -89,11 +89,8 @@ https://github.com/miller-petit-dev/ai-incident-analysis-system
 ---
 
 <p align="center">
-  <strong>Toda la gloria sea para Dios</strong><br/>
-  <sub>
-    I believe that discipline, humility, and perseverance are strengthened through faith.
-    This conviction shapes both my professional journey and my life.
-  </sub>
+  ✝️ <em>Toda la gloria sea para Dios.</em><br/>
+  <sub>Faith, discipline, and purpose guide my work and my life.</sub>
 </p>
 
 ---
