@@ -1,13 +1,16 @@
 ![Banner](./Banner.png)
 
-<h1 align="center">
-AI-Augmented Software Engineer
-</h1>
+---
 
 <p align="center">
-Designing intelligent, automated systems focused on problem-solving and real-world execution.
+  <em>
+    “El hombre que pone el corazón en lo que hace, encuentra soluciones
+    donde los incapaces e indolentes se dan por vencidos.”
+  </em><br/>
+  <sub>— Federico II de Prusia</sub>
 </p>
 
+---
 
 ## 🧠 Professional Profile
 
