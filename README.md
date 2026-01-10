@@ -89,8 +89,8 @@ https://github.com/miller-petit-dev/ai-incident-analysis-system
 ---
 
 <p align="center">
-  <em>“Toda la gloria sea para Dios.”</em><br/>
-  <sub>Faith, discipline, and purpose guide my work and my life.</sub>
+  ✝️ <strong>Toda la gloria sea para Dios</strong><br/>
+  <sub>With faith as foundation, I strive for excellence in everything I do.</sub>
 </p>
 
 ---
