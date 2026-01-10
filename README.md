@@ -66,13 +66,13 @@ https://github.com/miller-petit-dev/LIA-Quantitative-Execution-Framework
 
 ---
 
-### 🔹 AI-Augmented Incident Analysis & Automation System
+### 🔹 Nexus AI: Financial Data Pipeline & Insights
 **Python · AI · Automation · IT Systems**
 
 Intelligent system designed to analyze logs and operational events, detect anomalies, classify incidents, and suggest automated responses to reduce resolution time in technical environments.
 
 👉 Repository:  
-https://github.com/miller-petit-dev/ai-incident-analysis-system
+https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-&-Insights
 
 ---
 
