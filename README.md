@@ -56,13 +56,13 @@ This allows me to maintain **speed without sacrificing engineering quality**.
 
 ## 🏗️ Selected Projects
 
-### 🔹 AI-Augmented Automated Trading System
+### 🔹 LIA: Quantitative Execution Framework
 **Python · MT5 · Automation · Quantitative Systems**
 
 Design and development of a modular, data-driven trading and decision system capable of automating market analysis, strategy execution, risk management, and real-time notifications.
 
 👉 Repository:  
-https://github.com/miller-petit-dev/ai-augmented-trading-system
+https://github.com/miller-petit-dev/LIA: Quantitative Execution Framework
 
 ---
 
