@@ -88,6 +88,13 @@ https://github.com/miller-petit-dev/ai-incident-analysis-system
 
 ---
 
+<p align="center">
+  <em>“Toda la gloria sea para Dios.”</em><br/>
+  <sub>Faith, discipline, and purpose guide my work and my life.</sub>
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
