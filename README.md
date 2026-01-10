@@ -3,11 +3,11 @@
 ---
 
 <p align="center">
-  <em>
+  <strong>
     “El hombre que pone el corazón en lo que hace, encuentra soluciones
     donde los incapaces e indolentes se dan por vencidos.”
-  </em><br/>
-  <sub> Federico II de Prusia</sub>
+  </strong><br/>
+  <sub>  Federico II de Prusia</sub>
 </p>
 
 ---
