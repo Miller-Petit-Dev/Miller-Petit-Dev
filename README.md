@@ -62,7 +62,7 @@ This allows me to maintain **speed without sacrificing engineering quality**.
 Design and development of a modular, data-driven trading and decision system capable of automating market analysis, strategy execution, risk management, and real-time notifications.
 
 👉 Repository:  
-https://github.com/miller-petit-dev/LIA: Quantitative Execution Framework
+https://github.com/miller-petit-dev/LIA-Quantitative-Execution-Framework
 
 ---
 
