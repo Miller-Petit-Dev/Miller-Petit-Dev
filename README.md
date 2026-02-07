@@ -82,6 +82,7 @@ https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-Insights
 Sistema inteligente diseñado para analizar datos de mercado, prevenir leakage, validar estrategias con walk-forward, etiquetar eventos con triple-barrier y tomar decisiones de trading controladas por riesgo, incorporando human-in-the-loop, paper trading y kill switch para operación segura en producción.
 
 👉 Repositorio:
+
 https://github.com/miller-petit-dev/aurum-edge
 
 ---
